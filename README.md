@@ -41,6 +41,7 @@ Client Workflow/
 └── contact.html     # Contact Page
 ```
 
-## 📬 How to Use
-1.  Clone this repository.
-2.  Open `index.html` in your browser to view the website.
+## 🌐 Deployment
+This project is designed to be deployed on static hosting platforms.
+- **Future Plan**: Deploy to [Vercel](https://vercel.com) or [Netlify](https://netlify.com).
+- **Process**: Connect the GitHub repository to the hosting provider for automatic builds and deployments.
