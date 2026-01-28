@@ -1,4 +1,4 @@
-// Main JS for DigitUX
+// Main JS for BuildStack
 
 document.addEventListener('DOMContentLoaded', () => {
   const hamburger = document.querySelector('.hamburger');
@@ -46,4 +46,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 });
 
-console.log('DigitUX Logic Loaded');
+console.log('BuildStack Logic Loaded');
