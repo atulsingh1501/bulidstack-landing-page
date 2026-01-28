@@ -1,4 +1,4 @@
-# DigitUX - Digital Agency Landing Page
+# BulidStack - Digital Agency Landing Page
 ## 📌 Project Overview
 BuildStack is a modern, responsive landing page for a digital agency. This project was built to practice pixel-perfect design-to-code conversion, focusing on:
 - **Responsive Layout**: Works seamlessly on desktop and mobile.
