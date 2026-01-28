@@ -41,6 +41,9 @@ document.addEventListener('DOMContentLoaded', () => {
       el.style.transform = 'translateY(0)';
     }, 100 * index + 200);
   });
+
+
+
 });
 
 console.log('DigitUX Logic Loaded');

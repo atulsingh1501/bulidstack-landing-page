@@ -24,7 +24,7 @@
                 <li><a href="projects.html">Our Projects</a></li>
                 <li><a href="contact.html" class="active">Contact Us</a></li>
             </ul>
-            <a href="#" class="btn-primary">Get Started</a>
+            <a href="contact.html" class="btn-primary">Let's Talk</a>
             <div class="hamburger">
                 <i class="fas fa-bars"></i>
             </div>
@@ -40,16 +40,17 @@
 
     <section class="page-content">
         <div class="container" style="max-width: 800px;">
-            <form style="display: flex; flex-direction: column; gap: 20px;">
+            <form action="https://formspree.io/f/xnjvaywb" method="POST"
+                style="display: flex; flex-direction: column; gap: 20px;">
                 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-                    <input type="text" placeholder="Name"
+                    <input type="text" name="name" placeholder="Name"
                         style="padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
-                    <input type="email" placeholder="Email"
+                    <input type="email" name="email" placeholder="Email"
                         style="padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
                 </div>
-                <input type="text" placeholder="Subject"
+                <input type="text" name="subject" placeholder="Subject"
                     style="padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
-                <textarea rows="5" placeholder="Message"
+                <textarea name="message" rows="5" placeholder="Message"
                     style="padding: 15px; border: 1px solid #ddd; border-radius: 8px;"></textarea>
                 <button type="submit" class="btn-primary"
                     style="width: fit-content; border: none; cursor: pointer;">Send Message</button>
