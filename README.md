@@ -1,6 +1,6 @@
 # DigitUX - Digital Agency Landing Page
 ## 📌 Project Overview
-DigitUX is a modern, responsive landing page for a digital agency. This project was built to practice pixel-perfect design-to-code conversion, focusing on:
+BuildStack is a modern, responsive landing page for a digital agency. This project was built to practice pixel-perfect design-to-code conversion, focusing on:
 - **Responsive Layout**: Works seamlessly on desktop and mobile.
 - **Modern UI**: Uses CSS styling for complex shapes (hexagons), floating elements, and gradients.
 - **Clean Code**: Semantic HTML5, organized CSS, and vanilla JavaScript.
@@ -35,10 +35,9 @@ Client Workflow/
 ├── about.html       # About Page
 ├── services.html    # Services Page
 ├── projects.html    # Projects Page
-└── contact.html     # Contact Page
 ```
 
 ## 🌐 Deployment
 This project is designed to be deployed on static hosting platforms.
-- **Future Plan**: Deploy to [Vercel](https://vercel.com) or [Netlify](https://netlify.com).
+- **Live Demo**: [BuildStack](https://digitux-landing-page.netlify.app/)
 - **Process**: Connect the GitHub repository to the hosting provider for automatic builds and deployments.
